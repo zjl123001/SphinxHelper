@@ -4,7 +4,8 @@
 PyCharm, PyQt5, PyQt-tools, Sphinx, PyInstaller
 
 ## 使用方法：
-1. 方法一： 下载main文件夹，`pip install -r requirements.txt`安装需要的库，运行main
+下载main文件夹，`pip install -r requirements.txt`安装需要的库，运行main
+（注意：请选择python3.8版本）
 
 ## 界面展示：
 ![主窗口](主窗口.png)
