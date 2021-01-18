@@ -4,8 +4,7 @@
 PyCharm, PyQt5, PyQt-tools, Sphinx, PyInstaller
 
 ## 使用方法：
-方法一： 下载main文件夹，安装需要的库，运行main
-方法二： 下载打包好依赖的的app文件夹，直接运行（文件夹较大）
+1. 方法一： 下载main文件夹，`pip install -r requirements.txt`安装需要的库，运行main
 
 ## 界面展示：
 ![主窗口](主窗口.png)
